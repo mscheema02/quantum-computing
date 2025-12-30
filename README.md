@@ -1,4 +1,4 @@
-# Quantum Algorithms Mini-Project (Grover • Quantum Gates • Shor Simulation)
+# Quantum Computing Algorithms (Grover • Quantum Gates • Shor Simulation)
 
 This repository contains three study artifacts (two Jupyter notebooks and one PDF) that demonstrate foundational quantum computing concepts:
 - **Grover’s search** via state-vector simulation
